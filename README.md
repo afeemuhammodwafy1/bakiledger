@@ -1,4 +1,4 @@
-# BakiLedger Website — v1.2
+# BakiLedger Website — v1.2.1
 
 Multi-page GitHub Pages website for BakiLedger.
 
